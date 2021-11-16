@@ -6,7 +6,12 @@ GameArtistChallengeREADME.docx içerisinden Challenge 1 için örnek tasarıma b
 
 -	Unity 2020.3.20f1 LTS sürümü kullanılmalıdır.
 -	Tasarımlar yatay eksende yapılmalıdır.
--	Teslim Github üzerinden yapılmalıdır.
+
+## Teslim
+
+- Projeyi Github üzerinden indirip daha sonra kendi oluşturduğunuz bir repodan paylaşabilirsiniz.
+- Yaptığınız sahneleri .unitypackage olarak google drive üzerinden iletebilirsiniz.
+- Yaptığınız projenin tamamını sıkıştırdıktan sonra google drive üzerinden iletebilirsiniz.
 
 ## Challenge 1 – UI/UX Becerileri
 
