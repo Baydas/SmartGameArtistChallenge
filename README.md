@@ -1,5 +1,7 @@
 # GAME ARTIST CHALLENGE
 
+GameArtistChallengeREADME.docx içerisinden Challenge 1 için örnek tasarıma bakabilirsiniz.
+
 ## Zorunluluklar
 
 -	Unity 2020.3.20f1 LTS sürümü kullanılmalıdır.
