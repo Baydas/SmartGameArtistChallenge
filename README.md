@@ -1,4 +1,4 @@
-# GAME ARTIST CHALLENGE
+# Unity Game Artist Challenge
 
 GameArtistChallengeREADME.docx içerisinden Challenge 1 için örnek tasarıma bakabilirsiniz.
 
